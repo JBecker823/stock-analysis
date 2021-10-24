@@ -161,6 +161,14 @@ End Sub
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![2017 Run Time](https://user-images.githubusercontent.com/91567484/138604845-9c9218c1-ae7e-48cb-8ba1-127fe9b2149b.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![2018 Run Time](https://user-images.githubusercontent.com/91567484/138604853-e869b4dd-4500-4ecb-9810-dfe6fad18f2e.png)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Deliverable 2
 
 Background: Steve’s parents are looking to purchase stock from DQ. They are wondering about the activity of the stock that was actively traded in 2018. Finding was that in 2018 there was a -63% return on stock Daqo. 
